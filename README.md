@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏾, I'm Celestine</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Wifahrm](https://wifahrm.netlify.app/)
+- 🔭 I’m currently working on [Mindful Moments - a social media web app]
 
 - 🌱 I’m currently learning **Framer motion, Next.js**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react** **node**
 
 - 📫 How to reach me **kvngcelestine007@gmail.com**
 
