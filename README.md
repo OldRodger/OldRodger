@@ -1,6 +1,6 @@
-# Hi there, I'm Celestine! 👋  
+# Hi there, I'm Celestine! 👋🏾  
 
-I'm a **Full-Stack Developer** from **Nigeria**, currently based in **London, UK**. With a passion for building intuitive, scalable, and user-friendly web applications, I specialize in crafting seamless digital experiences.  
+I'm a **Full-Stack Developer** from **Nigeria 🇳🇬**, currently based in 📍**London, UK 🇬🇧**. With a passion for building intuitive, scalable, and user-friendly web applications, I specialize in crafting seamless digital experiences.  
 
 ---
 
@@ -14,37 +14,34 @@ I'm a **Full-Stack Developer** from **Nigeria**, currently based in **London, UK
 
 ## 🛠 Tech Stack  
 
-### 🔑 Main Languages  
-<p>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40" style="margin-right: 10px;"/>
-</p>  
-
-### 🎨 Frontend  
-<p>
-  <img src="https://img.icons8.com/officel/48/react.png" alt="React" title="React" width="40" height="40" style="margin-right: 10px;"/>  
-  <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="Next.js" title="Next.js" width="40" height="40" style="margin-right: 10px;"/>  
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="TailwindCSS" title="TailwindCSS" width="40" height="40" style="margin-right: 10px;"/>  
-</p>  
-
-### ⚙️ Backend  
-<p>
-  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js" width="40" height="40" style="margin-right: 10px;"/>  
-  <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" alt="Express.js" title="Express.js" width="40" height="40" style="margin-right: 10px;"/>  
-</p>  
-
-### 🗄 Databases  
-<p>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40" style="margin-right: 10px;"/>  
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" title="MySQL" width="40" height="40" style="margin-right: 10px;"/>  
-  <img src="https://img.icons8.com/color/48/supabase.png" alt="Supabase" title="Supabase" width="40" height="40" style="margin-right: 10px;"/>  
-</p>  
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+</div>
 
 ## 🌐 Find Me  
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile-link)  
-- 🌎 [Personal Website](https://your-personal-website-link.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/celestine-nwachukwu-1a545927a/)  
+- 🌎 [Personal Website](https://devcee.netlify.app/)  
 
 ---
 
