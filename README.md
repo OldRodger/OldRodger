@@ -16,30 +16,29 @@ I'm a **Full-Stack Developer** from **Nigeria**, currently based in **London, UK
 
 ### 🔑 Main Languages  
 <p>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40" style="margin-right: 10px;"/>
 </p>  
 
 ### 🎨 Frontend  
 <p>
-  <img src="https://img.icons8.com/officel/48/react.png" alt="React" title="React" width="40" height="40"/>  
-  <img src="https://img.icons8.com/ios/50/nextjs.png" alt="Next.js" title="Next.js" width="40" height="40"/>  
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="TailwindCSS" title="TailwindCSS" width="40" height="40"/>  
+  <img src="https://img.icons8.com/officel/48/react.png" alt="React" title="React" width="40" height="40" style="margin-right: 10px;"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" title="Next.js" width="40" height="40" style="margin-right: 10px;"/>  
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="TailwindCSS" title="TailwindCSS" width="40" height="40" style="margin-right: 10px;"/>  
 </p>  
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js" width="40" height="40"/>  
-  <img src="https://img.icons8.com/ios-filled/50/express-js.png" alt="Express.js" title="Express.js" width="40" height="40"/>  
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js" width="40" height="40" style="margin-right: 10px;"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" title="Express.js" width="40" height="40" style="margin-right: 10px;"/>  
 </p>  
 
 ### 🗄 Databases  
 <p>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>  
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" title="MySQL" width="40" height="40"/>  
-  <img src="https://img.icons8.com/color/48/supabase.png" alt="Supabase" title="Supabase" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40" style="margin-right: 10px;"/>  
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" title="MySQL" width="40" height="40" style="margin-right: 10px;"/>  
+  <img src="https://img.icons8.com/color/48/supabase.png" alt="Supabase" title="Supabase" width="40" height="40" style="margin-right: 10px;"/>  
 </p>  
-
 ---
 
 ## 🌐 Find Me  
