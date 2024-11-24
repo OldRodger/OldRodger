@@ -1,6 +1,6 @@
 # Hi there, I'm Celestine! 👋🏾  
 
-I'm a **Full-Stack Developer** from **Nigeria 🇳🇬**, currently based in 📍**London, UK 🇬🇧**. With a passion for building intuitive, scalable, and user-friendly web applications, I specialize in crafting seamless digital experiences.  
+I'm a **Full-Stack Developer** from **Nigeria 🇳🇬**, based in 📍**London, UK 🇬🇧**. With a passion for building intuitive, scalable, and user-friendly web applications, I specialize in crafting seamless digital experiences.  
 
 ---
 
