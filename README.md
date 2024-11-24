@@ -23,14 +23,14 @@ I'm a **Full-Stack Developer** from **Nigeria**, currently based in **London, UK
 ### 🎨 Frontend  
 <p>
   <img src="https://img.icons8.com/officel/48/react.png" alt="React" title="React" width="40" height="40" style="margin-right: 10px;"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" title="Next.js" width="40" height="40" style="margin-right: 10px;"/>  
+  <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="Next.js" title="Next.js" width="40" height="40" style="margin-right: 10px;"/>  
   <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="TailwindCSS" title="TailwindCSS" width="40" height="40" style="margin-right: 10px;"/>  
 </p>  
 
 ### ⚙️ Backend  
 <p>
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js" width="40" height="40" style="margin-right: 10px;"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" title="Express.js" width="40" height="40" style="margin-right: 10px;"/>  
+  <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" alt="Express.js" title="Express.js" width="40" height="40" style="margin-right: 10px;"/>  
 </p>  
 
 ### 🗄 Databases  
